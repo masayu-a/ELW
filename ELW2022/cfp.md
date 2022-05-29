@@ -80,8 +80,8 @@
 
 ### 原稿執筆要領：
 
-- 見本（Microsoft Word）(2022年6月上旬公開予定)
-- 見本（LaTeX）(2022年6月上旬公開予定)
+- 見本（Microsoft Word）[docx](ELW2022_sample.docx)
+- 見本（LaTeX）[Overleaf](https://www.overleaf.com/project/626e30d2a31e8095c6af45cc)
 
 発表論文集の原稿はワークショップ開催1週間前にウェブ上で公開します。
 発表論文集の原稿は Jxiv などのプレプリントサーバにアップロードすることを歓迎します。
