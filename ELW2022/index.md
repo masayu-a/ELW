@@ -1,4 +1,5 @@
 # Evidence-based Linguistics Workshop 2022
+![ELW_LOGO.png](ELW_LOGO.png)
 
 ## 開催概要
 

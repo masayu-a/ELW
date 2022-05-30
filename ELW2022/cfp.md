@@ -1,4 +1,5 @@
 # Evidence-based Linguistics Workshop 2022
+![ELW_CFP_LOGO.png](ELW_CFP_LOGO.png)
 
 ## 研究発表（一般発表）募集
 
