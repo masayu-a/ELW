@@ -1,5 +1,7 @@
 # Evidence-based Linguistics Workshop 2022
 
+[ELW](../index.md) → [ELW2022](index.md) → Copyright
+
 ## 二次投稿における著作権問題
 
 ### はじめに

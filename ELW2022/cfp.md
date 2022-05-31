@@ -1,6 +1,8 @@
 # Evidence-based Linguistics Workshop 2022
 ![ELW_CFP_LOGO.png](ELW_CFP_LOGO.png)
 
+[ELW](../index.md) → [ELW2022](index.md) → CFP
+
 ## 研究発表（一般発表）募集
 
 ### 応募資格：
