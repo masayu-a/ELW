@@ -7,7 +7,9 @@
 ### はじめに
 既発表論文を二次投稿する際に、研究倫理の問題とは別に、
 既発表論文の著作権について留意する必要がある。
-以下では 2022年5月現在の各学会の著作権規定を概観する。
+以下では *2022年6月現在の各学会の著作権規定*を概観する。
+
+- 修正・追加については、elw@ninjal.ac.jp まで
 
 ### 日本語学会大会
 【出典】
@@ -42,6 +44,13 @@ http://www.ls-japan.org/modules/news/news_doc/tyosakubutu-kitei-j.pdf
 > 6．学会が、自らあるいは第三者を通じて、著作物の複製等を行う場合は、著者を含む学会会員に広く利益をもたらすものでなければならない。また、著作物の複製等を行うことについて評議員会の承認を得なければならない。  
 > （学会が論文集等への再録を行う条件）  
 > 8．学会が、自らあるいは第三者を通じて、『言語研究』および大会予稿集に掲載された著作物を新たに編纂される論文集等に収録し刊行する場合は、第6項に示された条件に加え、事前に著者に通知することとする。  
+
+### 日本認知言語学会大会予稿集・論文集
+- 予稿集と論文集との2つある
+   - 予稿集には特に著作権に関する記載なし
+   - 論文集は https://2jcla.jp/japanese/yoryo/proceedings.htm
+- 学会誌（ジャーナル誌）は別扱い   
+
 
 ### 日本認知科学会大会発表論文
 【出典】
@@ -119,6 +128,24 @@ https://www.ai-gakkai.or.jp/pdf/national-convention/AC_copyright_jp.pdf
 著作権：原著者
 
 ライセンス：CC BY 4.0
+
+### ACL 関連 (2016年以降)
+https://aclanthology.org/faq/copyright/
+
+著作権：(c) Association for Computational Linguistics
+
+ライセンス：CC BY 4.0 (2016年より前は CC BY-NC-SA)
+
+ACL Double Submission of Papers to ACL Conferences: 
+https://www.aclweb.org/archive/policies/current/double-submission-policy.html
+
+### AAAI 関連
+
+- COPYRIGHT
+https://aaai.org/Organization/copyright.php
+- REQUEST TO REPRODUCE COPYRIGHTED MATERIALS
+https://aaai.org/Publications/Author/permissions-request.php
+
 
 ### お問い合わせ
 
