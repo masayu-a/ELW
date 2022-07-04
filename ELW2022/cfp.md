@@ -86,12 +86,12 @@
 提出ファイルはPDF形式とし、フォントをすべて埋め込んでください。
 書式は以下の執筆要領及び見本を参考にしてください。
 
-[申込フォーム](https://forms.office.com/r/AGLBzKAdnu)
+申込フォーム（締め切りました）
 
 ### 原稿執筆要領：
 
 - 見本（Microsoft Word）[docx](ELW2022_sample.docx)
-- 見本（LaTeX）[Overleaf](https://www.overleaf.com/project/626e30d2a31e8095c6af45cc)
+- 見本（LaTeX）[Overleaf](https://www.overleaf.com/read/xvxktfcxpsmm)
 
 発表論文集の原稿はワークショップ開催1週間前にウェブ上で公開します。
 発表論文集の原稿は Jxiv などのプレプリントサーバにアップロードすることを歓迎します。
