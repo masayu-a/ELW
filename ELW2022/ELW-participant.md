@@ -1,6 +1,8 @@
 # Evidence-based Linguistics Workshop 2022
 ![ELW_LOGO.png](ELW_LOGO.png)
 
+[ELW](../index.md) → [ELW2022](index.md) → ELW-participant
+
 ## ELW2022 参加者への注意点
 
 ELW2022参加に際しての注意点を示します。
@@ -53,9 +55,9 @@ ELW2022はハイブリッド型の開催を予定しております。
 ELW 2022 参加申込フォームより参加申込をお願いします。
 また併設して開催する JED分科会に参加を希望する方は、分科会の参加申込フォームへの参加申込をお願いします。
 
-[ELW2022 参加申込フォーム (9/5-9/6)]()
+[ELW2022 参加申込フォーム (9/5-9/6)](https://forms.office.com/r/SpTaxFBbSg)
 
-[JED分科会 参加申込フォーム (9/7)]()
+[JED分科会 参加について (9/7)](JED-participant.md)
 
 ---
 
