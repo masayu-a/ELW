@@ -1,6 +1,8 @@
 # Evidence-based Linguistics Workshop 2022
 ![ELW_LOGO.png](ELW_LOGO.png)
 
+[ELW](../index.md) → [ELW2022](index.md) → presenter
+
 ## 発表者への注意点
 
 このたびは ELW2022 に発表申込をしてくださりどうもありがとうございました。
@@ -17,9 +19,9 @@ JED 分科会講演者は参加申込は不要です。
 別途事務担当者より参加日程につきましてお伺いします。
 （※共同発表者が参加される場合には参加申込をお願いします）
 
-[ELW2022 参加申込フォーム (9/5-9/6)]()
+[ELW2022 参加申込フォーム (9/5-9/6)](https://forms.office.com/r/SpTaxFBbSg)
 
-[JED分科会 参加申込フォーム (9/7)]()
+[JED分科会 参加申込フォーム (9/7)](https://forms.office.com/r/5F970GaUdv)
 
 ### 発表に際して原稿を提出する場合
 
