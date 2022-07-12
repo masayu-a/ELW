@@ -41,6 +41,10 @@ Evidence-based Linguistics Workshop は、
 
 状況によってオンライン開催になることもございます。
 
+### プログラム
+
+[プログラム](ELW-programme.md)
+
 ### 参加費・参加資格
 
 参加費は無料です。
@@ -50,6 +54,7 @@ Evidence-based Linguistics Workshop は、
 オンサイト（対面）の参加者は発表者・国立国語研究所員・
 神戸大学関係者・国立国語研究所共同研究員を優先します。
 
+[参加申込](ELW-participant.md)
 
 ### 研究発表（一般発表）募集
 
