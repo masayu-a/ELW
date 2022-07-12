@@ -43,8 +43,8 @@ Evidence-based Linguistics Workshop は、
 
 ### プログラム
 
-[プログラム（概要あり）](ELW-programme.md)
-[プログラム（概要なし）](ELW-programme-short.md)
+- [プログラム（概要あり）](ELW-programme.md)
+- [プログラム（概要なし）](ELW-programme-short.md)
 
 ### 参加費・参加資格
 

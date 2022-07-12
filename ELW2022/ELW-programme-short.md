@@ -1,7 +1,7 @@
 # Evidence-based Linguistics Workshop 2022
 ![ELW_LOGO.png](ELW_LOGO.png)
 
-[ELW](../index.md) → [ELW2022](index.md) → ELW-programme
+[ELW](../index.md) → [ELW2022](index.md) → ELW-programme-short
 
 ## プログラム
 
@@ -82,7 +82,7 @@
 #### 午後：セッション７　口頭発表〔国語研 2F 講堂／zoom〕
 - 11:00 「A corpus-based analysis of word order variation in the low-resource languages of Northwest Iran」 Hiwa Asadpour（JSPS International Fellow University of Tokyo・Goethe University Frankfurt）
 
-- 11:30 「アタヤル語群における「言う」の再建」落合いずみ
+- 11:30 「アタヤル語群における「言う」の再建」落合いずみ（帯広畜産大学）
 
 #### 12:00-13:00【休憩】
 
