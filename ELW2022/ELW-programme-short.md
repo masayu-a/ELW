@@ -92,7 +92,7 @@
 #### 午後：セッション８　口頭発表〔国語研 2F 講堂／zoom〕
 - 13:00 「モーラに基づく最小詞「XY…のXの字」の曖昧性について：コーパスデータを用いての考察」澤田治（神戸大学）
 
-- 13:30 「On the relation between event numerals and quotative embedded clauses」Matsumoto, Asuka (University of Walsaw)・Gapczynski, Adam (Sophia University)・Wislicki, Jan (University of Walsaw)
+- 13:30 「On the relation between event numerals and quotative embedded clauses」・Jan Wiślicki (University of Walsaw)・松本飛鳥 (University of Walsaw)・Adam Gapczyński (上智大学)
 
 - 14:00 「Some constraints on the challenging speech act」平山裕人（関西外国語大学）
 
