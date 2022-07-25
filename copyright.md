@@ -1,13 +1,13 @@
-# Evidence-based Linguistics Workshop 2022
+# Evidence-based Linguistics Workshop 
 
-[ELW](../index.md) → [ELW2022](index.md) → Copyright
+[ELW](../index.md) →  Copyright
 
 ## 二次投稿における著作権問題
 
 ### はじめに
 既発表論文を二次投稿する際に、研究倫理の問題とは別に、
 既発表論文の著作権について留意する必要がある。
-以下では *2022年6月現在の各学会の著作権規定*を概観する。
+以下では *2022年7月現在の各学会の著作権規定*を概観する。
 
 - 修正・追加については、elw@ninjal.ac.jp まで
 
@@ -138,6 +138,14 @@ https://aclanthology.org/faq/copyright/
 
 ACL Double Submission of Papers to ACL Conferences: 
 https://www.aclweb.org/archive/policies/current/double-submission-policy.html
+
+### LREC 関連
+- LREC 2022
+https://lrec2022.lrec-conf.org/en/conference-programme/notes-on-copyright/
+
+著作権：(c) ELRA
+
+ライセンス：CC BY-NC 4.0
 
 ### AAAI 関連
 
