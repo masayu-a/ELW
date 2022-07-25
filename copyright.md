@@ -9,7 +9,7 @@
 既発表論文の著作権について留意する必要がある。
 以下では *2022年7月現在の各学会の著作権規定*を概観する。
 
-- 修正・追加については、elw@ninjal.ac.jp まで
+- 修正・追加については、masayu-a[at]ninjal.ac.jp まで
 
 ### 日本語学会大会
 【出典】
@@ -157,4 +157,4 @@ https://aaai.org/Publications/Author/permissions-request.php
 
 ### お問い合わせ
 
-elw[at]ninjal.ac.jp
+masayu-a[at]ninjal.ac.jp
