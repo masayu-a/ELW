@@ -66,6 +66,7 @@
 #### 午後：セッション５　口頭発表〔国語研 2F 講堂／zoom〕
 
 - 16:00-16:25 「ChaKi.NET liteの開発: Universal Dependenciesコーパスの利用を見据えたChaKi.NETユーザインターフェイスの改良」伊藤薫（九州大学）・森田敏生（総和技研）
+    - [論文](papers/ELW2022-001.pdf)
 
 - 16:30-16:55 「「は」の後接と否定極性に関する形式意味論的分析の試み」水谷謙太（愛知県立大学）
 
@@ -83,7 +84,8 @@
 - 11:00 「A corpus-based analysis of word order variation in the low-resource languages of Northwest Iran」 Hiwa Asadpour（JSPS International Fellow University of Tokyo・Goethe University Frankfurt）
 
 - 11:30 「アタヤル語群における「言う」の再建」落合いずみ（帯広畜産大学）
-
+    - [論文](papers/ELW2022-006.pdf)
+    
 #### 12:00-13:00【休憩】
 
 近隣には食事を提供する場所がございませんので、
