@@ -1,6 +1,9 @@
 # Evidence-based Linguistics Web Page Repository
 
-## 2022 Events
+## Awards
+### [Evidence-based Linguistics Workshop 優秀発表賞受賞者](ELW-awards.md)
+
+## Past Events
 ### 2022/09/05 (mon) - 2022/09/06 (tue)
 [Evidence-based Linguistics Workshop 2022](ELW2022/index.md)
 
