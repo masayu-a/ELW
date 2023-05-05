@@ -1,5 +1,4 @@
 # Evidence-based Linguistics Workshop 2023
-![../ELW2022/ELW_CFP_LOGO.png](../ELW2022/ELW_CFP_LOGO.png)
 
 [ELW](../index.md) → [ELW2023](index.md) → CFP
 
