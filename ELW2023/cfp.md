@@ -62,13 +62,15 @@
 
 ### 原稿執筆要領：
 
-- 見本（Microsoft Word）[docx](ELW2023_sample.docx)
+- 見本（Microsoft Word）[docx](./ELW2023_sample.docx)
 - 見本（LaTeX）[Overleaf](https://www.overleaf.com/read/xvxktfcxpsmm)
 
 発表論文集の原稿はワークショップ開催1週間前にウェブ上で公開します。
 発表論文集の原稿は Jxiv などのプレプリントサーバにアップロードすることを歓迎します。
 また、ワークショップ開催後に国立国語研究所学術情報リポジトリに登録し、DOIを付与して公開します。
-公開のために [ELW2023_発表論文公開承諾書](ELW2023_発表論文公開承諾書.xlsx) の提出をお願いします。
+公開のために
+[ELW2023_発表論文公開承諾書](./ELW2023_発表論文公開承諾書.xlsx)
+の提出をお願いします。
 
 ### 優秀発表賞：
 

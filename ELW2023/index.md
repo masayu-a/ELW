@@ -29,8 +29,8 @@ Evidence-based Linguistics Workshop は、
 
 ### 日程
 
-2023年9月14日(木) 13:00-17:00 
-2023年9月15日(金) 09:30-12:30
+- 2023年9月14日(木) 13:00-17:00 
+- 2023年9月15日(金) 09:30-12:30
 
 ### 場所
 
@@ -38,7 +38,8 @@ Evidence-based Linguistics Workshop は、
 
 ### プログラム
 
-- 7月下旬に確定します
+- [プログラム（概要あり）](ELW-programme.md)
+- [プログラム（概要なし）](ELW-programme-short.md)
 
 ### 参加費・参加資格
 
@@ -46,7 +47,7 @@ Evidence-based Linguistics Workshop は、
 
 どなたでも参加・発表ができます。
 
-- 参加申込は7月下旬より開始します
+[参加申込](ELW-participant.md)
 
 ### 研究発表（一般発表）募集（締め切りました）
 
