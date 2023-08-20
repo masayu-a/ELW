@@ -1,5 +1,4 @@
-# Evidence-based Linguistics Workshop 2022
-![ELW_LOGO.png](ELW_LOGO.png)
+# Evidence-based Linguistics Workshop 2023
 
 [ELW](../index.md) → [ELW2023](index.md) → ELW-participant
 
@@ -40,6 +39,8 @@ ELW2023参加に際しての注意点を示します。
 
 近隣に食べ物を調達できる場所は限られております。
 大変恐縮ですが、ゴミはお持ち帰りください。
+
+喫煙所は屋外にあります。喫煙所には屋根・灰皿がございませんので、傘・携帯灰皿などをご持参ください。
 
 ### 参加申込
 
