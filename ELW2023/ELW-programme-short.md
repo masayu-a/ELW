@@ -43,16 +43,16 @@
 #### 午前：セッション４　口頭発表〔国語研 2F 講堂〕　09:30-10:30
 
 - 09:30 「「構成の反復」の並行性についての構文文法的記述の試み」伊藤　薫 （九州大学）
-[pdf](papers/ELW2023-4.pdf)
+[pdf](papers/ELW2023-004.pdf)
 - 10:00 「ローマ字・カタカナ・キリル文字によるアイヌ語Universal Dependenciesの可能性」安岡孝一（京都大学）・安岡素子（京都大学・京都外国語大学）
-[pdf](papers/ELW2023-5.pdf)
+[pdf](papers/ELW2023-005.pdf)
 
 #### 午前：セッション５　ポスター発表〔国語研 2F 廊下〕　10:40-11:40
 - 「日本語の謙譲表現を含む文の処理における類似性の効果」胡春霞（関西学院大学：学生）・中野陽子（関西学院大学）
-[pdf](papers/ELW2023-6.pdf)
+[pdf](papers/ELW2023-006.pdf)
 - 「Projective properties of sense-based low-degree modifiers: A comparison with predicates of personal taste」Osamu Sawada（神戸大学）
 - 「統語構造の証拠として韻律パターンを使用することの有効性ー現代韓国語の属格主語構造を一例としてー」金英周（帝京大学）・五十嵐陽介（国立国語研究所）・宇都木昭（名古屋大学）・酒井弘（早稲田大学）
-[pdf](papers/ELW2023-7.pdf)
+[pdf](papers/ELW2023-007.pdf)
 
 #### 午後：セッション６　クロージング〔国語研 2F 講堂〕　11:50-12:30
 
