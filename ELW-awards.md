@@ -5,6 +5,13 @@ Evidence-based Linguistics Workshop では、全著者が学生 or 35歳未満 (
 
 ## [Evidence-based Linguistics Workshop 2022](ELW2022/index.md) 受賞者
 
-
 > 「福岡県柳川市方言と宮崎県椎葉村尾前方言における1モーラ名詞の母音延長：エリシテーション調査データを基に」
 > 松岡葵（九州大学・日本学術振興会）
+
+## [Evidence-based Linguistics Workshop 2023](ELW2023/index.md) 受賞者
+
+> 「西日本諸方言におけるアスペクト形式の文法化－2つの動機に基づく待遇化プロセス－」
+> 鴨井修平 （国立国語研究所・日本学術振興会）
+
+> 「『方丈記』の比喩表現の抽出と分析」
+> 菊地礼（国立国語研究所）
