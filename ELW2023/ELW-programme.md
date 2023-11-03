@@ -18,15 +18,15 @@
   
 #### 午後：セッション１　口頭発表〔国語研 2F 講堂〕　13:00-14:40
 - 13:10 「アタヤル語群の「星」に見られる様々な派生形」落合いずみ（帯広畜産大学）
-[pdf](papers/ELW2023-001.pdf)
+[pdf](https://doi.org/10.15084/0002000057)
 > アタヤル語群祖語における「星」は、アタヤル語スコレック方言のbiŋahとセデック語トゥルク方言のpəŋə<ra>h（セデック祖語* pəŋəh）を比較した上で、*biŋəhと再建されうる。セデック語では化石後方接中の<ra>が挿入された。しかしアタヤル語ではその他の方言においてbeyaŋah, hayaŋah, bəliyaquh, haŋituxなど様々な形式が報告されている。これらの形式もアタヤル語群祖語 *biŋəhに由来するものであるが、それぞれの形式において形態的、または音韻的変化を経ている。形態変化として (i) 化石前方接中辞<əl>の挿入、(ii) 化石後方接中辞<ya>の挿入（アタヤル語群祖語 *<ra>に遡る）、 (iii) 化石接尾辞 -tux（または-tuh, -quh）の付加とそれに伴う語尾の脱落、(iv) 音位転換が起きた。音韻変化としてb > h、h > k、ŋ > yへ変わるという不規則的な子音の変化が突発的に起きた。これらの変化のうちどれが生じたかについては方言間で違いが見られるため、同源語としての関連性が見えにくくなっている。
 
 - 13:40 「想起テストに見る多義語「甘い」の習得：小学5年生・中学2年生・大学生を対象に」◎西内沙恵（北海道教育大学・筑波大学：学生）
-[pdf](papers/ELW2023-002.pdf)
+[pdf](https://doi.org/10.15084/0002000058)
 > 本発表は，多義語の習得プロセスを調べるために，小学5年生・中学2年生・大学生を対象に実施した想起テストの結果を報告するものである。多義語とは関連する複数の意味が単一の形式に結びついた語である。例えば「甘い」は〈砂糖のような味がする〉，〈塩分が足りない〉，〈芳醇で快い〉，〈厳格さが足りない〉，〈不十分である〉という語義を持っている。語の習得は教育基本語彙の研究により学習年次が示されているが，多義語は学習年次において未習得の語義を含むことがあるとされる。多義語の習得プロセスを明らかにすることを目指し，調査協力者に「甘い」を使った文を10文書き出していただく想起テストを実施した。得られたデータに対して，述定と装定等の用法の情報と『現代形容詞用法辞典』に基づいて語義の情報を付与した。調査の結果，想起する語義に学年に応じた傾向が見て取れた。また用法を観点に，習得のプロセスとして装定を基盤として述定に広がりが見られることを報告する。
 
 - 14:10 「西日本諸方言におけるアスペクト形式の文法化－2つの動機に基づく待遇化プロセス－」◎鴨井修平 （日本学術振興会特別研究員）
-[pdf](papers/ELW2023-003.pdf)
+[pdf](https://doi.org/10.15084/0002000059)
 > 文法化の一方向性より，より低い階層にある語彙的要素は，より高い階層にある文法的要素に変化するということは自明である。一方，文法化はなぜ生じるのかという問題については研究が少ない。中国語の持続形式「着(ZHE)」は，事実確認を標示するムード形式に文法化している（沈 2008）。また，西日本諸方言の持続形式「ヨル(-jor-)」も，証拠性を標示するムード形式に文法化している（工藤 2014）。これらのムード化は，TAMの階層構造に基づけば，順当な文法化であると言える。しかし，近畿中央方言の持続形式「ヨル(-jor-)」は，卑罵性を標示する待遇形式に文法化している（井上 1998）。ここで，なぜ近畿中央方言では，ムード化ではなく待遇化が生じたのかという問題が生じる。本研究では，持続形式の待遇化は，①形式の機能重複，②形式のランキング，という2つの動機に基づいて生じるという仮説を提案する。また，文法化の動機の相違によって文法化の内容が分岐するという可能性について考える。
 
 #### 午後：セッション２　ポスター発表〔国語研 2F 廊下〕　14:50-15:50
@@ -57,23 +57,23 @@
 #### 午前：セッション４　口頭発表〔国語研 2F 講堂〕　09:30-10:30
 
 - 09:30 「「構成の反復」の並行性についての構文文法的記述の試み」伊藤　薫 （九州大学）
-[pdf](papers/ELW2023-004.pdf)
+[pdf](https://doi.org/10.15084/0002000060)
 > 反復は修辞学における修辞技法の1つであるが、平行法(parallelism)に代表される構成の反復は、同じ構成が繰り返されることを特徴とする。構成の反復では多くの場合、何らかの変化を伴って繰り返される。例えば、イギリスの元首相チャーチルの発言 ”I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.” では”Dogs look up to us.”と“Cats look down on us.”を同じ構成の繰り返しとみなせるが、”Dogs”と”Cats”、”up to”と”down on”が異なり、他は同一である。構成の同一性には程度差があり、対応する要素の語数が異なる場合も、同一の語が全く含まれない場合でも構成の反復とみなしうる。従来の修辞学では修辞性をもたらす特徴的な部分に限定して記述されてきたが、本研究では共通部分と差異を記述するための体系を模索する。枠組みは構文文法を中心とし、必要に応じて拡張する。記述対象は反復される要素の音韻、意味、品詞を中心とし、それらのスキーマ化及びスキーマからのカテゴリー化の観点から考察する。また、反復検出の自動化可能性についても検討する。
 
 - 10:00 「ローマ字・カタカナ・キリル文字によるアイヌ語Universal Dependenciesの可能性」安岡孝一（京都大学）・安岡素子（京都大学・京都外国語大学）
-[pdf](papers/ELW2023-005.pdf)
+[pdf](https://doi.org/10.15084/0002000061)
 > 書写言語としてのアイヌ語は、ローマ字(ラテンアルファベット)・カタカナ・キリル文字など、多彩な文字と記法によって記述されてきた。その一方、抱合語としてのアイヌ語は、日本語や欧米諸語とは全く異なる言語構造を持つことから、これらの言語向けの言語処理手法は、そのままではアイヌ語に適用できない。ならばUniversal Dependenciesは、どうだろう。言語横断的な文法構造記述として設計されたUniversal Dependenciesは、書写言語としてのアイヌ語を、どの程度ちゃんと記述できるのだろう。『アイヌ神謠集』、『アイヌ語會話字典』、アイヌ語訳『五倫名義解』、『Аинско-русский словарь』をUniversal Dependenciesコーパスとして記述していく中で、われわれは、われわれの見積りが甘かったことを痛感すると同時に、それでも、アイヌ語Universal Dependenciesが、アイヌ語の言語処理に寄与することを確信した。本発表では、その一端について述べる。
 
 #### 午前：セッション５　ポスター発表〔国語研 2F 廊下〕　10:40-11:40
 - 「日本語の謙譲表現を含む文の処理における類似性の効果」胡春霞（関西学院大学：学生）・中野陽子（関西学院大学）
-[pdf](papers/ELW2023-006.pdf)
+[pdf](https://doi.org/10.15084/0002000062)
 > キュー呼び出しモデルによると（Lewis＆Vasishth, 2005）、文法性の錯覚（非文法的な文を文法的であると錯覚すること）が起こるのは、本来、ヘッド（動詞）と結び付くべき構成素（ターゲット）があるのに、ヘッドと同じ統語的特徴を持っている構成素（アトラクター）があると、ヘッドがアトラクターと結びつき、ヘッドとターゲット間の依存関係に干渉するためである。複数の種類の実験で促進効果が報告されており、促進性干渉とも言う。日本語の謙譲表現「お～する」は、その目的語名詞句のあいだに統語的一致が求められる。本研究では、主語名詞句をアトラクター、目的語名詞句をターゲットとして、尊敬の接辞（先生）を付加し、ヘッドの動詞との統語的一致の有無を操作して促進性干渉の有無を調べた。全文提示の容認性判断課題と自己ペース読文課題を実施した。その結果、前者では抑制性干渉が見られ、後者では促進性干渉が見られなかった。
 
 - 「Projective properties of sense-based low-degree modifiers: A comparison with predicates of personal taste」Osamu Sawada（神戸大学）
 > Sense-based low-degree modifiers such as the Japanese kasukani ‘faintly’ and the English faintly are similar to predicates of personal taste such as tasty in that they trigger an acquaintance inference—i.e., that a judge (typically the speaker) has first-hand experience with the object of predication. However, they differ in terms of projective behavior. Whereas the acquaintance inference of predicates of personal taste disappears when they are embedded under interrogative, conditional, or modal operators (e.g., Ninan 2014; Pearson 2013; Anand and Korotkova 2018; Willer and Kennedy 2020), in the case of sense-based low-degree modifiers, the experiential meaning that a judge measures degree based on their own sense projects in those environments. (As a result, sentences are often unnatural unless it is contextually justified.) I argue that the difference in projectability comes from differences in the nature of the experience. Sense-based low-degree modifiers pertain to the manner of measurement, which is an immediate, direct sensory experience. By contrast, predicates of personal taste need not pertain to an immediate experience. It will be shown that differences in the natures of experiences can be checked using the “Hey, wait a minute!” test. This paper shows that there are various kinds of acquaintance inferences and that the differences are reflected in projective behavior.
 
 - 「統語構造の証拠として韻律パターンを使用することの有効性ー現代韓国語の属格主語構造を一例としてー」金英周（帝京大学）・五十嵐陽介（国立国語研究所）・宇都木昭（名古屋大学）・酒井弘（早稲田大学）
-[pdf](papers/ELW2023-007.pdf)
+[pdf](https://doi.org/10.15084/0002000063)
 > 統語論、音韻論、意味論など言語学の各分野においては、それぞれの現象を検討するために、細分化されたそれぞれの分野内のデータが証拠とされることが多い。しかし有効な証拠は分野内に限らず、分野外のデータから得られることもある。本発表では、現代韓国語の属格主語構造を一例として、統語構造に関する仮説の検証に韻律パターンを証拠として使用することの有効性を示す。現代日本語では、「母親が焼いたチジミ／母親の焼いたチジミ」のように連体修飾節中の主格と属格が交替することが可能であるが、現代韓国語／朝鮮語では方言によって可能性が異なることが指摘されている（Sohn, 2004; 金銀姫 2014）。ここで「母親の」のような名詞句が連体修飾節の主語であるという証拠を示すために、従来の研究では修飾語を加えた複雑な文の意味判断を行わせることが多かった。本発表では、例文を各方言の母語話者に音読させた韻律パターンを分析することで、名詞句が連体修飾節の主語であることの明瞭な証拠が得られることを示す。
 
 #### 午後：セッション６　クロージング〔国語研 2F 講堂〕　11:50-12:30
