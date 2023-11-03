@@ -3,8 +3,8 @@
 [ELW](../index.md) → [ELW2023](index.md) → ELW-programme
 
 ## アブストラクト集・論文集
-- [アブストラクト集](papers/ELW2023-ABSTRACT.pdf)
-- [論文集](papers/ELW2023-ALL.pdf)
+- [アブストラクト集](https://repository.ninjal.ac.jp/records/2000065)
+- [論文集](https://repository.ninjal.ac.jp/records/2000055)
 
 ## プログラム
 
