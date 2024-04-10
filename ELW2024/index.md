@@ -45,6 +45,8 @@ Evidence-based Linguistics Workshop は、
 
 参加申込は7月以降に開始します。
 
+[国立国語研究所のイベントにおけるアンチハラスメントポリシー](https://www.ninjal.ac.jp/events/anti-harassment-policy/)
+
 ### 研究発表（一般発表）募集
 
 [研究発表募集](cfp.md)
