@@ -29,13 +29,16 @@ Evidence-based Linguistics Workshop は、
 
 ### 日程
 
-- 2024年9月21日(土)
-- 2024年9月22日(日)
+- 2024年9月21日(土) 10:00-16:30
 
 ### 場所
 
 国立国語研究所（東京都立川市緑町１０－２）
 
+### プログラム
+
+- [プログラム（概要あり）](ELW-programme.md)
+- [プログラム（概要なし）](ELW-programme-short.md)
 
 ### 参加費・参加資格
 
@@ -43,7 +46,7 @@ Evidence-based Linguistics Workshop は、
 
 どなたでも参加・発表ができます。
 
-参加申込は7月以降に開始します。
+[参加申込](ELW-participant.md)
 
 [国立国語研究所のイベントにおけるアンチハラスメントポリシー](https://www.ninjal.ac.jp/events/anti-harassment-policy/)
 
