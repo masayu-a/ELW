@@ -28,7 +28,7 @@
 #### 午後：セッション３　ポスター発表〔国語研 2F 講堂〕　13:15-14:45
 
 - 「VOS言語における予測メカニズム：セデック語を中心に」楊棟文（東北大学：学生）・小泉政利（東北大学）
-- 「語彙認識に対する異形選択確率の効果」○橋本大樹（上越教育大学）
+- 「語彙認識に対する異形選択確率の効果」◎橋本大樹（上越教育大学）
 - 「The meanings of the Japanese numerical additive particles "ato" and "moo": Their interaction with eventuality and intensional operators」Osamu Sawada （神戸大学）
 - 「多義語の語義間類似度の地域差に見る多義ネットワークの構成：現代日本語形容詞「あまい」を題材に」西内沙恵（北海道教育大学）
 
