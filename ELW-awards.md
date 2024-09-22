@@ -15,3 +15,8 @@ Evidence-based Linguistics Workshop では、全著者が学生 or 35歳未満 (
 
 > 「『方丈記』の比喩表現の抽出と分析」
 > 菊地礼（国立国語研究所）
+
+## [Evidence-based Linguistics Workshop 2024](ELW2024/index.md) 受賞者
+
+> 「語彙認識に対する異形選択確率の効果」
+> 橋本大樹（上越教育大学）
