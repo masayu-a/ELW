@@ -3,8 +3,9 @@
 [ELW](../index.md) → [ELW2024](index.md) → ELW-programme
 
 ## アブストラクト集・論文集
-- [アブストラクト集](papers/ELW2024-ABSTRACT.pdf)
-- [論文集](papers/ELW2024-ALL.pdf)
+
+- [アブストラクト集](https://repository.ninjal.ac.jp/records/2000335)
+- [論文集](https://doi.org/10.15084/0002000329)
 
 ## プログラム
 
@@ -19,9 +20,9 @@
 #### 午前：セッション１　口頭発表〔国語研 2F 講堂〕　10:15-11:15
 
 - 10:15 「「構成の反復」における反復単位の認定基準に関する考察」伊藤薫（九州大学）
-[pdf](papers/ELW2024-001.pdf)
+[pdf](https://doi.org/10.15084/0002000331)
 - 10:45 「BE動詞とHAVE動詞の統語的特性: 自己ペース読み課題と容認性判断実験による検証」◎木村一馬（筑波大学：学生）
-[pdf](papers/ELW2024-013.pdf)
+[pdf](https://doi.org/10.15084/0002000332)
 
 #### 午前：セッション２　招待講演〔国語研 2F 講堂〕　11:15-12:15
 
@@ -34,7 +35,7 @@
 - 「語彙認識に対する異形選択確率の効果」◎橋本大樹（上越教育大学）
 - 「The meanings of the Japanese numerical additive particles "ato" and "moo": Their interaction with eventuality and intensional operators」Osamu Sawada （神戸大学）
 - 「多義語の語義間類似度の地域差に見る多義ネットワークの構成：現代日本語形容詞「あまい」を題材に」西内沙恵（北海道教育大学）
-[pdf](papers/ELW2024-027.pdf)
+[pdf](https://doi.org/10.15084/0002000333)
 
 #### 午後：セッション４　国立国語研究所プロジェクト紹介〔国語研 2F 講堂〕　15:00-16:00
 
