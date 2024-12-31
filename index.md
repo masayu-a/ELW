@@ -1,13 +1,18 @@
 # Evidence-based Linguistics Web Page Repository
 
 ## Events
-### 2024/09/21 (sat) - 2023/09/22 (sun)
-[Evidence-based Linguistics Workshop 2024](ELW2024/index.md)
+### 2025/09/15 (mon) - 2024/09/16 (tue)
+[Evidence-based Linguistics Workshop 2025](ELW2025/index.md)
+
 
 ## Awards
 ### [Evidence-based Linguistics Workshop 優秀発表賞受賞者](ELW-awards.md)
 
 ## Past Events
+### 2024/09/21 (sat) - 2024/09/22 (sun)
+- [Evidence-based Linguistics Workshop 2024](ELW2024/index.md)
+- [Evidence-based Linguistics Workshop 2024　発表論文集](https://doi.org/10.15084/0002000329)
+
 ### 2023/09/14 (thu) - 2023/09/15 (fri)
 - [Evidence-based Linguistics Workshop 2023](ELW2023/index.md)
 - [Evidence-based Linguistics Workshop 2023　発表論文集](https://doi.org/10.15084/0002000055)
