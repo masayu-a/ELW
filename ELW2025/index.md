@@ -51,7 +51,7 @@ Evidence-based Linguistics Workshop は、
 
 ### 研究発表（一般発表）募集
 
-- 準備中
+- [研究発表募集](cfp.md)
 
 ---
 
