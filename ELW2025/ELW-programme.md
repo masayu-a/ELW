@@ -1,6 +1,6 @@
 # Evidence-based Linguistics Workshop 2025
 
-[ELW](../index.md) → [ELW2024](index.md) → ELW-programme
+[ELW](../index.md) → [ELW2025](index.md) → ELW-programme
 
 ## アブストラクト集・論文集
 
