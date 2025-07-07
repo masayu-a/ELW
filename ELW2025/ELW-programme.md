@@ -43,7 +43,7 @@
 - 「対話における推論の要請と権威 ー文末に現れるコトの意味の多様性を通して」金　英周（）
 > 文末に現れる「述語＋コト」は、命令（９時までに来るコト）、感嘆（お菓子の美味しいコト）、確認要請（ご準備はよろしいですコト）、感情表出（爽やかな朝ですコト）などさまざまなモダリティを表出する（森川, 2013; 尾野, 2019）。命令や感嘆のモダリティ表現は他にも存在するが、このような多様性はコトにしかみられない。本研究では、なぜ多様な意味が表現されるのか、わざわざ曖昧性の高い表現が用いられるのはなぜなのか、などの疑問に答えることを目指す。結論として、「文末のコト」は、話し手が発話意図をあえて明示的に述べないで、コトが導く命題を前提として提示し、聞き手が発話意図を推論することを要請する表現であると述べる。このような聞き手に対する推論の要請はグライスの様態の会話格率（曖昧な表現を避けよ）からの逸脱だと考えられるが、それが可能なのは話し手の聞き手に対する権威を背景としているからであると主張する。
 
-- 「名古屋・関西・佐賀方言における埋め込み疑問文の解釈と音調体系」田中真一（）
+- 「名古屋・関西・佐賀方言における埋め込み疑問文の解釈と音調体系」田中真一（神戸大学）
 > "　本発表は、異なる音調体系を持つ名古屋・関西・佐賀方言を対照し、埋め込み疑問文解釈と音調との対応を分析する。
 　西垣内・日高 (2010）は「直也は真理が誰に会ったか知っているの？」という文が東京方言では YN疑問文にもWH疑問文にも解釈され、両者が音調の違いと関係し主文述語にF0抑制があればWH疑問文として、それがなければYN疑問文と解釈されると指摘した。
 　上記にもとづき、３方言話者に対する条件を統制した刺激文（ (1)疑問詞の音調、(2) 主文述語F0抑制の有無、(3) 文末上昇・下降）の知覚調査をもとに以下を報告する。
@@ -83,7 +83,7 @@
 - 「BCCWJ-Metaphorの印象評定情報に見る比喩表現認識」加藤祥（北海道大学）・菊地礼（長野工業高等専門学校）・浅原正幸（国立国語研究所）
 > 日本語における比喩表現の実態調査を目指し，均衡性を有した日本語比喩表現コーパス「BCCWJ-Metaphor」を構築している。BCCWJ-Metaphorは，語を基準に厳密な比喩性判定を行うMIP（The Pragglejaz Group 2007）により構築された比喩表現コーパスとの対照を可能とするため，BCCWJ-WLSP（加藤他 2019）の約35万語に対しMRWを認定している。また，日本語比喩表現の網羅的な収集を目途とし，実態に応じた比喩認定のため，中村(1977)の比喩性把握を援用した柔軟な認定も行った。但し，専門知識を有した作業者の比喩表現認定においても，比喩の定義および使用辞書などに基づく判定揺れ，境界表現（WIDLII: When In Doubt, Leave It In）などの「曖昧性」に対応する必要がある。そこで，比喩表現とされた用例，選択制限違反や慣用からの逸脱可能性のある要素の「結合」に対し，クラウドソーシングを通して一般的な日本語話者による印象評定情報を付与した。本発表では，BCCWJ-Metaphorにおける日本語比喩表現の傾向分布と，一般的な日本語話者の認識の傾向を示す。
 
-- 「The Japanese expressive modifier baka: Its form‒meaning correspondence」澤田 治（）
+- 「The Japanese expressive modifier baka: Its form‒meaning correspondence」澤田 治（神戸大学）
 > "The English noun-modifying expressive modifier damn can express not only a speaker’s negative attitude toward the target expressed in a noun but also the speaker’s negative attitude toward an entire proposition (= propositional reading) (e.g., Potts 2005; Gutzmann 2019). In this presentation, I investigate the Japanese noun-modifying expressive modifier baka ‘stupid’ in the form X-no baka and argue that unlike the English expressive modifier damn, it simultaneously conveys a negative attitude toward an individual expressed in a noun and an entire event related to the individual within a single reading. I argue that the expressive use of baka develops as a result of its interpretation as a stage-level predicate representing a temporal property (Carlson 1977). 
 > In this presentation, I also look at the case where X-no baka is placed in a non-subject position and claim that in that case, X-no baka does not semantically scope over an entire event but rather makes reference to X’s contextually salient event and conveys the speaker’s negative evaluation of X and of the event related to X. By assuming an implicit event, I demonstrate that essentially the same semantic mechanism applies when baka appears in a non-subject position as when it appears in a subject position. 
     This presentation clarifies that there is a new type of expressive modifier in natural language: a dual-expressive modifier."
