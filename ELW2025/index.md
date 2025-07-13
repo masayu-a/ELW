@@ -37,7 +37,9 @@ Evidence-based Linguistics Workshop は、
 
 ### プログラム
 
-- 準備中
+- [ELWサテライトワークショップ](https://www.ninjal.ac.jp/events_jp/20250915b/)
+- [プログラム（概要あり）](ELW-programme.md)
+- [プログラム（概要なし）](ELW-programme-short.md)
 
 ### 参加費・参加資格
 
@@ -45,13 +47,14 @@ Evidence-based Linguistics Workshop は、
 
 どなたでも参加・発表ができます。
 
-参加申込（準備中）
+[参加申込](ELW-participant.md)
 
 [国立国語研究所のイベントにおけるアンチハラスメントポリシー](https://www.ninjal.ac.jp/events/anti-harassment-policy/)
 
 ### 研究発表（一般発表）募集
 
-- [研究発表募集](cfp.md)
+- [研究発表募集](cfp.md)　（発表申込を締め切りました）
+- [発表者への注意点](ELW-presenter.md)
 
 ---
 
