@@ -29,7 +29,7 @@ ELW 発表者は ELW 2025 参加申込フォームより参加申込をお願い
 
 公開のために[ELW2025_発表論文公開承諾書](ELW2025_発表論文公開承諾書)の提出をお願いします。
 
-[発表原稿提出先](https://ninjal-my.sharepoint.com/:f:/g/personal/elw_ninjal_ac_jp/EnPmIGD3-ixFoghKI-kmGG4BckOWXJCo0wtDq4VbP-grtg)
+[発表原稿提出先](https://ninjal-my.sharepoint.com/:f:/g/personal/elw_ninjal_ac_jp/EtISiVzkDLJGjZPzOhrJKEABubsi0dT4X3IlE7BZ-T5wZw)
 
 ### 優秀発表賞
 
@@ -43,7 +43,7 @@ ELW 発表者は ELW 2025 参加申込フォームより参加申込をお願い
 
 口頭発表は、国立国語研究所 2F 講堂にて実施します。
 
-**発表資料のpdf版を 9/7(日) までに、以下に提出してください**
+**合理的配慮の提供のため、発表資料のpdf版を 9/7(日) までに、以下に提出してください**
 
 [発表資料提出先](https://ninjal-my.sharepoint.com/:f:/g/personal/elw_ninjal_ac_jp/ElXe6_G-eclEhnmQg7MtW8MBlERP61JnJmPOQA64AaxXuQ)
 
