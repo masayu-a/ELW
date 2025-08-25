@@ -79,17 +79,16 @@
 >　本論では、古事記のもう一つの重要な役割として、日本国語の誕生への寄与を挙げる。天智らが主導し、天武によって完成を迎えた日本の国家統一たる大化改新は、天皇を中心とした中央集権体制によって日本を取り巻くアジアの国際情勢への対処を目指した。ここに従来日本各地の方言が主体で、公用語や公文書としての国語の使用もままならなかった中央政権が古事記を日本言語統一事業すなわち標準国語の出発点あるいは基本書として位置付け、用いたことの例証を試みる。古事記が日本国語の創世記となり、後世のひらかな、カタカナ等を含む新たな国語の創出を促したほか、現代の日本語に通じる日本人の思想文化といった認識へ与えた影響に及びたい。
 
 - 「ニュージーランド英語における過剰調音に対する最小対語の与える効果」橋本 大樹（上越教育大学）
-> "英語の ""cut"" と ""shut"" の様な語のペアは、語頭子音音素のみで異なっており、最小対 (minimal pair) と呼ばれる。また日本語の「仮名」と「蟹」の様な語のペアは、語末母音音素のみ異なっており、最小組である。先行研究では最小対語 (minimal pair competitor) の存在は、発音に影響することを示している。その際に local な最小組の存在と、global な最小差異語の数のどちらが効いているかについて、様々な見解が示されている。
-本研究ではニュージーランド英語における DRESS と TRAP に関して、 local な最小組の存在と、global な最小差異語の数のどちらが効いているかを検証した。被験者に DRESS と TRAP を含む語を発音してもらい、第一フォルマントの値を分析した。その結果、最小対語を多く持つ語ほど、F1 の値は周辺的に発音されることが明らかになった。この結果はニュージーランド英語の母音に関して、 global な最小差異語の数の方が過剰調音に影響していることを示すものである。"
+> 英語の "cut" と "shut" の様な語のペアは、語頭子音音素のみで異なっており、最小対 (minimal pair) と呼ばれる。また日本語の「仮名」と「蟹」の様な語のペアは、語末母音音素のみ異なっており、最小組である。先行研究では最小対語 (minimal pair competitor) の存在は、発音に影響することを示している。その際に local な最小組の存在と、global な最小差異語の数のどちらが効いているかについて、様々な見解が示されている。
+本研究ではニュージーランド英語における DRESS と TRAP に関して、 local な最小組の存在と、global な最小差異語の数のどちらが効いているかを検証した。被験者に DRESS と TRAP を含む語を発音してもらい、第一フォルマントの値を分析した。その結果、最小対語を多く持つ語ほど、F1 の値は周辺的に発音されることが明らかになった。この結果はニュージーランド英語の母音に関して、 global な最小差異語の数の方が過剰調音に影響していることを示すものである。
 
 - 「石川県七尾方言におけるノダ相当表現「ガヤ」と「ゲン」の使用実態」米村 雪乃（東京外国語大学大学院：学生）
-> "石川県では、共通語の「ノダ」にあたる形式に「ガヤ」と「ゲン」がある。「ガヤ」は共通語の「ノダ」と同様、準体助詞とコピュラから成る。一方、「ゲン」は「ガヤ」から変化したものであり、若い世代が使う「新方言」であるという指摘がある（新田2004）。新田（2004）、野間（2015）等の先行研究では、「ガヤ」は共通語のノダにあたる広い範囲をカバーし、「ゲン」は使用に制限があるとされてきたが、発表者が2025に石川県七尾市で行った調査では、「ガヤ」「ゲン」が共に使用できるとされてきた場面で「ガヤ」は選ばれず「ゲン」のみが用いられるようになっていることが分かった。本発表では、「ガヤ」「ゲン」の使い分けに関して、現在の七尾市におけるデータを例に分析を試みる。
-参考文献：新田哲夫（2004）「石川県金沢方言のガヤとその周辺」中井精一・内山順蔵・高橋浩二編『日本海沿岸の地域特性とことば―富山県方言の過去・現在・未来―』163-182, 富山: 桂書房.▼野間純平（2015）「石川方言におけるノダ相当形式―新形式の成立過程に注目して」『方言の研究』第1号: 251-276."
+> 石川県では、共通語の「ノダ」にあたる形式に「ガヤ」と「ゲン」がある。「ガヤ」は共通語の「ノダ」と同様、準体助詞とコピュラから成る。一方、「ゲン」は「ガヤ」から変化したものであり、若い世代が使う「新方言」であるという指摘がある（新田2004）。新田（2004）、野間（2015）等の先行研究では、「ガヤ」は共通語のノダにあたる広い範囲をカバーし、「ゲン」は使用に制限があるとされてきたが、発表者が2025に石川県七尾市で行った調査では、「ガヤ」「ゲン」が共に使用できるとされてきた場面で「ガヤ」は選ばれず「ゲン」のみが用いられるようになっていることが分かった。本発表では、「ガヤ」「ゲン」の使い分けに関して、現在の七尾市におけるデータを例に分析を試みる。
+参考文献：新田哲夫（2004）「石川県金沢方言のガヤとその周辺」中井精一・内山順蔵・高橋浩二編『日本海沿岸の地域特性とことば―富山県方言の過去・現在・未来―』163-182, 富山: 桂書房.▼野間純平（2015）「石川方言におけるノダ相当形式―新形式の成立過程に注目して」『方言の研究』第1号: 251-276.
 
 - 「イメージ・スキーマの数学的モデルの構築」倉橋 農（羽衣国際大学）・館野 浩司（北陸大学）
-> "認知言語学では、空間・移動表現、およびそこから比喩として派生される言語表現の意味として、イメージ・スキーマを表現する図が用いられる。これは空間表現の意味を直感的に記述したものとして理解しやすいが、その図形の形状や矢印などの記号に厳密な定義は与えられていない。そこで本発表では、空間・移動表現の意味を記述するイメージ・スキーマおよびそれを表現する図に数学的なモデルを与えることを提唱する。
-> このモデルは、自然言語の空間・移動表現に関する意味論および認知科学的研究に、あらたな検証方法を提案することになる。モデルは比較的単純な幾何学で表現されるが、そのモデルは、個々の表現がどのような意味を持つかを、厳密に表現する仮説となる。これにより、紙上あるいは画像・映像、さらに仮想現実・拡張現実を用いた行動実験を行うことで、仮説の妥当性を検証し、理論のより健全な議論に結びつけることが可能となると考えられる。"
-
+> 認知言語学では、空間・移動表現、およびそこから比喩として派生される言語表現の意味として、イメージ・スキーマを表現する図が用いられる。これは空間表現の意味を直感的に記述したものとして理解しやすいが、その図形の形状や矢印などの記号に厳密な定義は与えられていない。そこで本発表では、空間・移動表現の意味を記述するイメージ・スキーマおよびそれを表現する図に数学的なモデルを与えることを提唱する。
+> このモデルは、自然言語の空間・移動表現に関する意味論および認知科学的研究に、あらたな検証方法を提案することになる。モデルは比較的単純な幾何学で表現されるが、そのモデルは、個々の表現がどのような意味を持つかを、厳密に表現する仮説となる。これにより、紙上あるいは画像・映像、さらに仮想現実・拡張現実を用いた行動実験を行うことで、仮説の妥当性を検証し、理論のより健全な議論に結びつけることが可能となると考えられる。
 
 - 「形容詞の意味記述における「程度」問題」西内 沙恵（北海道教育大学）
 > 形容詞の語義には「程度」の大小や高低といった記述が多く見られる。『計算機用日本語基本辞書IPAL：形容詞』（以下，IPAL）において，「程度」を含む意味記述は136語中28件と，2割の語に含まれていた。本発表ではIPALや『現代形容詞用法辞典』における語釈を題材に，形容詞の意味記述について検討する。「程度」により記述される語義は多義語の派生義が多く，当該の語が有する他の語義との共通点及び不一致が示されれば，意味記述として成立する。一方で，複数の語で比べた際，差異が認められにくくなるという問題が残る。形容詞のより明瞭な意味記述を目指し，「程度」への抽象化が起きる形容詞の語義の派生プロセスに基づき，複数の語間の差異化に貢献する要素の記述について提案を試みる。
@@ -98,9 +97,9 @@
 > 日本語における比喩表現の実態調査を目指し，均衡性を有した日本語比喩表現コーパス「BCCWJ-Metaphor」を構築している。BCCWJ-Metaphorは，語を基準に厳密な比喩性判定を行うMIP（The Pragglejaz Group 2007）により構築された比喩表現コーパスとの対照を可能とするため，BCCWJ-WLSP（加藤他 2019）の約35万語に対しMRWを認定している。また，日本語比喩表現の網羅的な収集を目途とし，実態に応じた比喩認定のため，中村(1977)の比喩性把握を援用した柔軟な認定も行った。但し，専門知識を有した作業者の比喩表現認定においても，比喩の定義および使用辞書などに基づく判定揺れ，境界表現（WIDLII: When In Doubt, Leave It In）などの「曖昧性」に対応する必要がある。そこで，比喩表現とされた用例，選択制限違反や慣用からの逸脱可能性のある要素の「結合」に対し，クラウドソーシングを通して一般的な日本語話者による印象評定情報を付与した。本発表では，BCCWJ-Metaphorにおける日本語比喩表現の傾向分布と，一般的な日本語話者の認識の傾向を示す。
 
 - 「The Japanese expressive modifier baka: Its form‒meaning correspondence」澤田 治（神戸大学）
-> "The English noun-modifying expressive modifier damn can express not only a speaker’s negative attitude toward the target expressed in a noun but also the speaker’s negative attitude toward an entire proposition (= propositional reading) (e.g., Potts 2005; Gutzmann 2019). In this presentation, I investigate the Japanese noun-modifying expressive modifier baka ‘stupid’ in the form X-no baka and argue that unlike the English expressive modifier damn, it simultaneously conveys a negative attitude toward an individual expressed in a noun and an entire event related to the individual within a single reading. I argue that the expressive use of baka develops as a result of its interpretation as a stage-level predicate representing a temporal property (Carlson 1977). 
+> The English noun-modifying expressive modifier damn can express not only a speaker’s negative attitude toward the target expressed in a noun but also the speaker’s negative attitude toward an entire proposition (= propositional reading) (e.g., Potts 2005; Gutzmann 2019). In this presentation, I investigate the Japanese noun-modifying expressive modifier baka ‘stupid’ in the form X-no baka and argue that unlike the English expressive modifier damn, it simultaneously conveys a negative attitude toward an individual expressed in a noun and an entire event related to the individual within a single reading. I argue that the expressive use of baka develops as a result of its interpretation as a stage-level predicate representing a temporal property (Carlson 1977). 
 > In this presentation, I also look at the case where X-no baka is placed in a non-subject position and claim that in that case, X-no baka does not semantically scope over an entire event but rather makes reference to X’s contextually salient event and conveys the speaker’s negative evaluation of X and of the event related to X. By assuming an implicit event, I demonstrate that essentially the same semantic mechanism applies when baka appears in a non-subject position as when it appears in a subject position. 
-    This presentation clarifies that there is a new type of expressive modifier in natural language: a dual-expressive modifier."
+    This presentation clarifies that there is a new type of expressive modifier in natural language: a dual-expressive modifier.
 
 
 #### 午後：セッション５　招待講演〔国語研 2F 講堂〕　13:30-14:30
