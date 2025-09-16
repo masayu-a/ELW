@@ -20,3 +20,8 @@ Evidence-based Linguistics Workshop では、全著者が学生 or 35歳未満 (
 
 > 「語彙認識に対する異形選択確率の効果」
 > 橋本大樹（上越教育大学）
+
+## [Evidence-based Linguistics Workshop 2025](ELW2025/index.md) 受賞者
+
+> 「属性叙述述語としての「xならでは（のN）」」
+> 坂本 瑞生（東北大学）
