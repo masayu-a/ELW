@@ -68,9 +68,7 @@ ELW2025へのご参加にあたっての注意点を以下に示します。
 
 ### 参加申込
 
-以下のリンクよりお申し込みください：
-
-[ELW2025 参加申込フォーム（9/15–9/16）](https://forms.office.com/r/dgVjAkkKA6)
+（締め切りました）
 
 - [国立国語研究所のイベントにおけるアンチハラスメントポリシー](https://www.ninjal.ac.jp/events/anti-harassment-policy/)
 
