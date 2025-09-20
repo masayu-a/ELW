@@ -75,7 +75,7 @@
 
 #### 午後：セッション５　招待講演〔国語研 2F 講堂〕　13:30-14:30
 
-- 13:30 「言語モデルは言語学に何のエビデンスも与えないのでしょうか？」栗林 樹生先生 （Mohamed bin Zayed University of Artificial Intelligence）
+- 13:30 「言語モデルは言語学に何のエビデンスも与えないのでしょうか？」栗林 樹生先生 （Mohamed bin Zayed University of Artificial Intelligence） [[pdf]](https://kuribayashi4.github.io/pdfs/20250915_ninjal.pdf)
 
 
 #### 午後：セッション６　国立国語研究所プロジェクト紹介〔国語研 2F 講堂〕　14:50-15:50
